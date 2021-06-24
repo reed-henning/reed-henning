@@ -2,7 +2,7 @@
 - 👀 I’m interested in design
 - 🌱 I’m currently learning Webflow
 - 💞️ I’m looking to collaborate on Bitcoin
-- 📫 Reach me on Bitcoin Design Slack Channel
+- 📫 Reach me on the Bitcoin Design Slack channel
 
 <!---
 reed-henning/reed-henning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
